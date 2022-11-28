@@ -15,5 +15,5 @@ to launch this project:
 8.1 DB_DATABASE= "Your name of schema"
 9. run php artisan migrate:fresh --seed
 
-Now everything is set up, and you can launch site. Run php artisan serve
-http://127.0.0.1:8000 this is your URL to the site.
+Now everything is set up, and you can launch site. Run php artisan serve\
+http://127.0.0.1:8000/clients this is your URL to the site.
