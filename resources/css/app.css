@@ -1,0 +1,77 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: #f3f1f1;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+
+.main-box {
+    display: flex;
+    padding: 100px;
+}
+
+.header {
+    width: 100%;
+    background-color: #87aee1;
+    height: 100px;
+}
+
+.links {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-box {
+    margin-right: 350px;
+    display: block;
+}
+
+.right-box {
+    position: relative;
+    padding: 10px;
+    border: 1px solid black;
+    height: fit-content;
+}
+
+.client-records {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+.deliveries-container {
+    margin-left: 300px
+}
+
+.client-info-container {
+    height: fit-content;
+    border: 1px solid black;
+    margin-right: 100px;
+}
+
+.delivery-info-record {
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.main-text {
+    padding: 20px;
+}
+
+.client-names-and-addresses-box {
+    padding: 20px;
+}
+
+.info-about-client {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
